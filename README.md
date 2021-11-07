@@ -1,4 +1,4 @@
-# Givemunity - Frontend
+# Givemunity - Bundle POC - Frontend
 
 ## Project setup
 ```
